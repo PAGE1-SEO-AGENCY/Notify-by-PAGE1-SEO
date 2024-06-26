@@ -59,15 +59,6 @@ The plugin includes basic styling, but you can customize the appearance further 
 = 1.0 =
 * Initial release.
 
-=== Notify by PAGE1 SEO (Tiếng Việt) ===
-Contributors: Page1.vn
-Website: https://page1.vn
-Tags: notifications, popup, social proof, custom notifications, WordPress notifications
-Yêu cầu tối thiểu: 5.0
-Đã kiểm tra tới: 6.5
-Stable tag: 1.0
-Giấy phép: GPLv3 or later
-
 Plugin này cung cấp các thông báo popup tùy chỉnh cho trang WordPress của bạn, cho phép bạn hiển thị chứng thực xã hội và các thông điệp khác cho người dùng dựa trên các cài đặt có thể tùy chỉnh.
 
 == Mô tả ==
