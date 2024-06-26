@@ -1,13 +1,11 @@
 # Notify-by-PAGE1-SEO
-
-=== Notify by PAGE1 SEO ===
-Contributors: PAGE1 SEO Agency
-Website: https://page1.vn
-Tags: notifications, popup, social proof, custom notifications, WordPress notifications
-Requires at least: 5.0
-Tested up to: 6.5
-Stable tag: 1.0
-License: GPLv3 or later
+<p>Contributors: PAGE1 SEO Agency</p>
+<p>Website: https://page1.vn</p>
+<p>Tags: notifications, popup, social proof, custom notifications, WordPress notifications</p>
+<p>Requires at least: 5.0</p>
+<p>Tested up to: 6.5</p>
+<p>Stable tag: 1.0</p>
+<p>License: GPLv3 or later</p>
 
 This plugin provides customizable popup notifications for your WordPress site, allowing you to display social proof and other messages to users based on configurable settings.
 
